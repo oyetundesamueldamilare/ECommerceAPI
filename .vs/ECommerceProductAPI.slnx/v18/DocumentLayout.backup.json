@@ -1,0 +1,321 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Migrations\\20260424190820_FirstM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerceProductAPI\\Migrations\\20260424190820_FirstM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\services\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\services\\ijwttokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\services\\seeddatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\services\\seeddatahelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\ecommerceproductapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\ecommerceproductapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|c:\\users\\dell\\desktop\\projectcs\\ecommerceproductapi\\ecommerceproductapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD3F1BD-BD23-44D2-9D89-553ECA366324}|ECommerceProductAPI\\ECommerceProductAPI.csproj|solutionrelative:ecommerceproductapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20260424190820_FirstM.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Migrations\\20260424190820_FirstM.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Migrations\\20260424190820_FirstM.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Migrations\\20260424190820_FirstM.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Migrations\\20260424190820_FirstM.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAAM4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T19:08:21.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\appsettings.json",
+              "RelativeToolTip": "ECommerceProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-24T19:04:38.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeedDataHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Services\\SeedDataHelper.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Services\\SeedDataHelper.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Services\\SeedDataHelper.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Services\\SeedDataHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:45:33.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:42:28.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:36:18.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwFMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:53:25.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:37:26.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJwtTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Services\\IJwtTokenService.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Services\\IJwtTokenService.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Services\\IJwtTokenService.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Services\\IJwtTokenService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:12:23.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Program.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:44:37.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T18:36:50.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:27:18.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Dto\\ProductDto.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:27:01.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T11:26:47.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:51:06.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Models\\AppUser.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:58:16.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ECommerceProductAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T10:55:18.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ECommerceProductAPI",
+              "DocumentMoniker": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\ECommerceProductAPI.csproj",
+              "RelativeDocumentMoniker": "ECommerceProductAPI\\ECommerceProductAPI.csproj",
+              "ToolTip": "C:\\Users\\dell\\Desktop\\ProjectCS\\ECommerceProductAPI\\ECommerceProductAPI\\ECommerceProductAPI.csproj",
+              "RelativeToolTip": "ECommerceProductAPI\\ECommerceProductAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-24T10:54:31.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
