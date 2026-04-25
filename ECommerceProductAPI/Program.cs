@@ -58,7 +58,7 @@ builder.Services.AddSwaggerGen(options =>
 {
     options.SwaggerDoc("v1", new OpenApiInfo
     {
-        Title = "Contact API",
+        Title = "ECommerce API",
         Version = "v1"
     });
 
