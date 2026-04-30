@@ -14,7 +14,8 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "10.0.7",
           "Microsoft.IdentityModel.Tokens": "8.17.0",
           "Swashbuckle.AspNetCore": "8.0.0",
-          "System.IdentityModel.Tokens.Jwt": "8.17.0"
+          "System.IdentityModel.Tokens.Jwt": "8.17.0",
+          "System.Linq.Dynamic.Core": "1.7.2"
         },
         "runtime": {
           "ECommerceProductAPI.dll": {}
@@ -867,6 +868,14 @@
           }
         }
       },
+      "System.Linq.Dynamic.Core/1.7.2": {
+        "runtime": {
+          "lib/net10.0/System.Linq.Dynamic.Core.dll": {
+            "assemblyVersion": "1.7.2.0",
+            "fileVersion": "1.7.2.0"
+          }
+        }
+      },
       "System.Memory.Data/8.0.1": {
         "runtime": {
           "lib/net8.0/System.Memory.Data.dll": {
@@ -1300,6 +1309,13 @@
       "sha512": "sha512-nKikRYheDeSaXA3wGr2otwaiRFygBa25m+hc7MEomZVIEWZvKVqd8wgP9yn+8QpLRGgw//dUs4LErGx9gtVmAA==",
       "path": "system.identitymodel.tokens.jwt/8.17.0",
       "hashPath": "system.identitymodel.tokens.jwt.8.17.0.nupkg.sha512"
+    },
+    "System.Linq.Dynamic.Core/1.7.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-11SGBy8DCywOVElSs2J+Cd4WFHruFrBnaaQ86q2HWHBGcCAQDLnbA0ivpFvMeXGPqcEPE+Q3HZtXaXN4F8JLQg==",
+      "path": "system.linq.dynamic.core/1.7.2",
+      "hashPath": "system.linq.dynamic.core.1.7.2.nupkg.sha512"
     },
     "System.Memory.Data/8.0.1": {
       "type": "package",

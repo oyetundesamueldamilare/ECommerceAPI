@@ -51,6 +51,7 @@ builder.Services.AddAuthentication(options =>
 // --- 3. Dependency Injection & API Config ---
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IJwtTokenService, JwtTokenService>();
+builder.Services.AddScoped<IProductQueryRepository, ProductQueryRepository>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
