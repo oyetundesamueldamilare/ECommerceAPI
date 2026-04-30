@@ -3,13 +3,11 @@
     public class ProductQueryParams
     {
         public int? Id { get; set; }
-        public string ProductName { get; set; } = string.Empty;
-        public string ProductCode { get; set; } = string.Empty;
-        public decimal Price { get; set; }
-        public int Quantity { get; set; }
+        public string? ProductName { get; set; }
+        public string? ProductCode { get; set; }
 
         // Sorting
-        public string? SortBy { get; set; }        // name | email | phoneNumber
+        public string SortBy { get; set; } = "Id";   // default
         public bool SortDesc { get; set; } = false;
 
         // Paging
@@ -21,4 +19,5 @@
             set => _pageSize = value > 50 ? 50 : value < 1 ? 1 : value;
         }
     }
+
 }

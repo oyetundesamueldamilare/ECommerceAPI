@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ECommerceProductAPI.Repository
 {
-    public class ProductQueryRepository         : IProductQueryRepository
+    public class ProductQueryRepository : IProductQueryRepository
     {
         private readonly AppDbContext _context;
 
@@ -29,17 +29,11 @@ namespace ECommerceProductAPI.Repository
 
             var totalCount = await query.CountAsync();
 
-            // Sorting
-            query = q.SortBy?.ToLower() switch
-            {
-                "name" => q.SortDesc ? query.OrderByDescending(e => e.ProductName) : query.OrderBy(e => e.ProductName),
-                "code" => q.SortDesc ? query.OrderByDescending(e => e.ProductCode) : query.OrderBy(e => e.ProductCode),
-                "price" => q.SortDesc ? query.OrderByDescending(e => e.Price) : query.OrderBy(e => e.Price),
-                "quantity" => q.SortDesc ? query.OrderByDescending(e => e.Quantity) : query.OrderBy(e => e.Quantity),
-                _ => query.OrderBy(e => e.Id)
-            };
+            // Sorting (dynamic LINQ)
+            var sortExpression = $"{q.SortBy} {(q.SortDesc ? "descending" : "ascending")}";
+            query = query.OrderBy(sortExpression);
 
-            // Paging
+            // Paging + Projection
             var items = await query
                 .Skip((q.PageNumber - 1) * q.PageSize)
                 .Take(q.PageSize)
@@ -49,7 +43,7 @@ namespace ECommerceProductAPI.Repository
                     ProductName = e.ProductName,
                     ProductCode = e.ProductCode,
                     Price = e.Price,
-                    Quantity = e.Quantity,
+                    Quantity = e.Quantity
                 })
                 .ToListAsync();
 
@@ -63,12 +57,13 @@ namespace ECommerceProductAPI.Repository
         }
     }
 
+
     public class PagedResult<T>
     {
-        public List<T> Items { get; set; } = [];
-        public int TotalCount { get; set; }
-        public int PageNumber { get; set; }
-        public int PageSize { get; set; }
+        public IReadOnlyList<T> Items { get; init; } = Array.Empty<T>();
+        public int TotalCount { get; init; }
+        public int PageNumber { get; init; }
+        public int PageSize { get; init; }
         public int TotalPages => (int)Math.Ceiling((double)TotalCount / PageSize);
     }
 }
